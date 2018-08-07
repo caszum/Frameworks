@@ -1,0 +1,38 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.social-icon {
+	margin: 10px 0px;
+}
+.chip > material-icon {
+	vertical-align: middle;
+}
+
+.autor {
+	width: 80%;
+	padding: 15px;
+}
+
+.texto-blanco {
+	color: white;
+}
+
+.background {
+	background-color: white;
+	background-image: url(../img/barcelona-fondo.jpg);
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: fixed;
+}
